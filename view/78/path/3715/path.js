@@ -1,0 +1,1 @@
+callback([{"filename":"00.jpg","seg_id":35355,"content":"Move forward & turn left"},{"filename":"01.jpg","seg_id":35356,"content":"Take lift to Level 3"},{"filename":"02.jpg","seg_id":35359,"content":"Move forward"},{"filename":"03.jpg","seg_id":35360,"content":"You have reached Endoscopy Centre"}]);

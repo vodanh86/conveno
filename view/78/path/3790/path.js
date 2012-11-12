@@ -1,0 +1,1 @@
+callback([{"filename":"00.jpg","seg_id":36690,"content":"Move forward"},{"filename":"01.jpg","seg_id":36691,"content":"Move forward"},{"filename":"02.jpg","seg_id":36692,"content":"Move forward"},{"filename":"03.jpg","seg_id":36693,"content":"You have reached Shuttle Bus Stop (A&E)"}]);

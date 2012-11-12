@@ -1,0 +1,1 @@
+callback([{"filename":"00.jpg","seg_id":35747,"content":"Move forward"},{"filename":"01.jpg","seg_id":35748,"content":"Move forward & turn right"},{"filename":"02.jpg","seg_id":35749,"content":"Move forward"},{"filename":"03.jpg","seg_id":35751,"content":"You have reached Pharmacy (Retail)"}]);
