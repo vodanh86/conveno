@@ -1,0 +1,2 @@
+cd /var/www/viki/htdocs/tongwing/CONVENO_standalone
+ls | while read d; do echo $d; cd $d; echo "callback("`cat path.json`");" > path.js; cd ..; done
